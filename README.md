@@ -1,5 +1,7 @@
 # clockify-tool
 
+Repo moved to: https://github.com/artefactual-labs/clockify-tool
+
 The Clockify Tool (`cft`) can be used to list, create, and delete time entries in
 Clockify. Tested with Python 2.7.
 
